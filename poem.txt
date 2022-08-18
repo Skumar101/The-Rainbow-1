@@ -3,5 +3,6 @@ Purple
 Pink
 Orange
 Blue
+Green
 Red
 these are the colors of the rainbow
